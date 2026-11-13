@@ -1,0 +1,58 @@
+Privacy Policy for Piano Nova
+Effective date: November 13, 2026
+
+Piano Nova (“the App”) is developed by Abilash (“we,” “us,” or “our”). This Privacy Policy explains what information may be handled when you use the App and the choices available to you.
+
+1. Information handled by the App
+You do not need to create an account or provide your name or email address to use the App.
+
+The App’s piano sounds, built-in demo songs, and recordings you make are processed on your device. Custom recordings are kept in the App’s memory while it is running and are not designed to be saved between app sessions.
+
+If audio import or transcription is available in your version of the App, a file you select is processed on your device to provide that feature. The App does not send that audio file to a server operated by the developer.
+
+If you contact us for support, we will receive the information you choose to include in your message, such as your email address and the details of your request.
+
+2. Advertising and third-party services
+The App uses Google Mobile Ads (AdMob) to display banner, interstitial, native, and App Open advertisements. Google and its advertising partners may collect or receive information through their services, such as device or advertising identifiers, IP address, ad interactions, and diagnostic information. The information handled may depend on your device settings, location, consent choices, and applicable law.
+
+The App requests advertising treatment suitable for children and limits ad content to a general-audience rating. Ads may be personalized or non-personalized depending on applicable consent, settings, and Google’s policies. These settings do not guarantee that every ad or data practice is compliant with every local law; we are responsible for configuring and declaring the App appropriately.
+
+Google’s privacy information is available at:
+
+Google Privacy Policy
+How Google uses information from apps that use its services
+3. Consent and privacy choices
+The App uses Google’s User Messaging Platform (UMP) to check consent requirements and present consent messages where applicable and configured. If a Privacy options control is available in the App’s Settings, you can use it to review or change your advertising privacy choices.
+
+You can also manage advertising and privacy settings through your device and, where available, Google’s advertising settings. Your choices may affect which ads can be shown.
+
+4. Children’s privacy
+Piano Nova is intended for a broad audience and may be used by children. The App does not ask users to create accounts or submit personal information directly to the developer to play piano or use its basic features.
+
+Advertising in the App is configured for child-directed treatment and a general-audience content rating. Google’s advertising services may still process information as described in this policy and in Google’s own policies. Parents or guardians with questions or concerns can contact us using the details below.
+
+5. How information is used and shared
+We use information you provide directly to respond to support requests. The App’s advertising provider may process information to provide, measure, and help protect advertising services, subject to its own terms and privacy practices.
+
+We do not operate an account system or a server for users’ piano recordings. We do not sell information that you provide directly to us.
+
+6. Data retention and deletion
+Custom piano recordings are held in the App’s memory while it is running; they are not designed to persist after the App process closes. Built-in demo songs are included with the App.
+
+Audio files selected for import or transcription, where that feature is available, are processed on your device. Temporary files created during processing are intended to be removed by the App after use. The original file remains subject to the storage location and controls from which you selected it.
+
+Information processed by Google’s advertising services is retained according to Google’s policies and settings. For information about that data, please consult Google’s privacy resources linked above.
+
+7. Security
+We take reasonable steps to protect information handled by the App. No method of electronic storage or transmission is completely secure.
+
+8. Your privacy rights
+Depending on where you live, you may have rights to access, correct, delete, or restrict certain personal information. For information handled by Google’s advertising services, use Google’s privacy controls or contact Google through its privacy resources. To ask about information you have sent to us directly, contact us below.
+
+9. Changes to this Privacy Policy
+We may update this Privacy Policy as the App or applicable requirements change. The latest version will be posted at the privacy-policy URL used for the App’s store listing, with its effective date updated above.
+
+10. Contact
+Developer: Abilash
+Email: abilashbg.developer@gmail.com
+
